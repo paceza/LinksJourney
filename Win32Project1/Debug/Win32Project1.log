@@ -1,0 +1,29 @@
+﻿  CLifeWin.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  CLifeApp.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  CLife.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+c:\users\student\desktop\zpaceproject3\clife.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\student\desktop\zpaceproject3\clife.cpp(37): warning C4010: single-line comment contains line-continuation character
+c:\users\student\desktop\zpaceproject3\clife.cpp(173): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\student\desktop\zpaceproject3\clife.cpp(184): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\student\desktop\zpaceproject3\clife.cpp(195): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\student\desktop\zpaceproject3\clife.cpp(206): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\student\desktop\zpaceproject3\clife.cpp(361): warning C4010: single-line comment contains line-continuation character
+c:\users\student\desktop\zpaceproject3\clife.cpp(366): warning C4010: single-line comment contains line-continuation character
+c:\users\student\desktop\zpaceproject3\clife.cpp(383): warning C4010: single-line comment contains line-continuation character
+c:\users\student\desktop\zpaceproject3\clife.cpp(385): warning C4010: single-line comment contains line-continuation character
+c:\users\student\desktop\zpaceproject3\clife.cpp(474): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\student\desktop\zpaceproject3\clife.cpp(476): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\student\desktop\zpaceproject3\clife.cpp(478): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\student\desktop\zpaceproject3\clife.cpp(480): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\student\desktop\zpaceproject3\clife.cpp(482): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\student\desktop\zpaceproject3\clife.cpp(484): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\student\desktop\zpaceproject3\clife.cpp(486): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\student\desktop\zpaceproject3\clife.cpp(488): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\student\desktop\zpaceproject3\clife.cpp(509): warning C4010: single-line comment contains line-continuation character
+c:\users\student\desktop\zpaceproject3\clife.cpp(510): warning C4010: single-line comment contains line-continuation character
+  Generating Code...
+  Win32Project1.vcxproj -> C:\Users\student\Desktop\LinksJourney\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> C:\Users\student\Desktop\LinksJourney\Debug\Win32Project1.pdb (Full PDB)

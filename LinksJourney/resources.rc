@@ -1,0 +1,10 @@
+// File: resources.rc
+// Author: Zack Pace
+// Project: CS215 Project 3 Spring 2017
+// Description of file contents:
+
+BACKGROUND_BMP	BITMAP	Bg.bmp
+PERSON_BMP	BITMAP	Waldo.bmp
+TREE_BMP    	BITMAP  Tree.bmp
+FLOOR_BMP 	BITMAP	Floor.bmp
+
